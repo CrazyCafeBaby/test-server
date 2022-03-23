@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+rocketmq:
+  producer:
+    namesrvAddr: 172.31.38.111:9876
+    group: TEST_TOPIC

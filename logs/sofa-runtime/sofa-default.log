@@ -1,0 +1,33 @@
+2022-03-21 14:14:40,604 INFO  main                             - SOFABoot Runtime Starting!
+2022-03-21 14:15:28,329 INFO  main                             - Registering component: service:com.example.server.api.TestApi
+2022-03-21 14:15:28,331 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:15:28,689 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:15:28,693 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:15:28,755 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:15:28,756 INFO  main                             - Register Service - com.example.server.api.TestApi
+2022-03-21 14:27:41,692 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:27:41,696 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:27:41,697 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:27:41,697 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:27:52,984 INFO  main                             - SOFABoot Runtime Starting!
+2022-03-21 14:28:01,687 INFO  main                             - Registering component: service:com.example.server.api.TestApi
+2022-03-21 14:28:01,690 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:28:01,993 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:28:01,996 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:28:02,052 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:28:02,053 INFO  main                             - Register Service - com.example.server.api.TestApi
+2022-03-21 14:33:12,328 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:33:12,332 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:33:12,333 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:33:12,333 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:34:53,304 INFO  main                             - SOFABoot Runtime Starting!
+2022-03-21 14:34:58,091 INFO  main                             - Registering component: service:com.example.server.api.TestApi
+2022-03-21 14:34:58,091 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:34:58,584 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:34:58,585 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:34:58,795 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:34:58,795 INFO  main                             - Register Service - com.example.server.api.TestApi
+2022-03-21 14:35:54,717 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:35:54,722 INFO  SpringContextShutdownHook        -  <<Pre un-out Binding [bolt] Ends - com.example.server.api.TestApi.
+2022-03-21 14:35:54,723 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Begins - com.example.server.api.TestApi.
+2022-03-21 14:35:54,724 INFO  SpringContextShutdownHook        -  <<Post un-out Binding [bolt] Ends - com.example.server.api.TestApi.

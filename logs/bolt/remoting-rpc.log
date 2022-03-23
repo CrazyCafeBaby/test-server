@@ -1,0 +1,6 @@
+2022-03-21 14:15:29,029 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2022-03-21 14:27:41,612 WARN  [RpcServer#328] [SpringContextShutdownHook] Rpc Server stopped!
+2022-03-21 14:28:02,295 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2022-03-21 14:33:12,269 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!
+2022-03-21 14:34:59,506 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2022-03-21 14:35:54,647 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!

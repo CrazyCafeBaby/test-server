@@ -1,0 +1,361 @@
+2022-03-17 16:24:18,508 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 16:24:18,511 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 16:24:18,512 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 16:24:18,513 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 16:24:18,514 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 16:24:18,516 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 16:24:18,516 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 16:24:18,517 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 16:24:18,518 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 16:24:18,518 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 16:24:18,518 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 16:24:18,518 INFO  main                             - Readiness check result: success
+2022-03-17 16:35:10,452 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 16:35:10,456 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 16:35:10,457 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 16:35:10,457 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 16:35:10,459 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 16:35:10,461 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 16:35:10,461 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 16:35:10,462 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 16:35:10,462 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 16:35:10,462 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 16:35:10,462 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 16:35:10,462 INFO  main                             - Readiness check result: success
+2022-03-17 17:56:42,401 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 17:56:42,404 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 17:56:42,405 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 17:56:42,406 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 17:56:42,408 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 17:56:42,410 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 17:56:42,411 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 17:56:42,411 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 17:56:42,412 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 17:56:42,412 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 17:56:42,412 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 17:56:42,412 INFO  main                             - Readiness check result: success
+2022-03-17 17:58:33,070 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 17:58:33,074 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 17:58:33,075 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 17:58:33,076 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 17:58:33,078 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 17:58:33,079 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 17:58:33,080 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 17:58:33,081 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 17:58:33,081 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 17:58:33,081 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 17:58:33,081 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 17:58:33,081 INFO  main                             - Readiness check result: success
+2022-03-17 18:03:50,062 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:03:50,065 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 18:03:50,066 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 18:03:50,067 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:03:50,068 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:03:50,070 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:03:50,071 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:03:50,072 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:03:50,072 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:03:50,072 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:03:50,072 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 18:03:50,072 INFO  main                             - Readiness check result: success
+2022-03-17 18:05:58,767 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:05:58,770 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2022-03-17 18:05:58,771 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2022-03-17 18:05:58,772 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:05:58,774 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:05:58,775 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:05:58,776 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:05:58,776 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:05:58,776 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:05:58,776 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:05:58,777 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 18:05:58,777 INFO  main                             - Readiness check result: success
+2022-03-17 18:36:36,780 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:36:36,794 INFO  main                             - Found 2 HealthIndicator implementation:diskSpaceHealthIndicator,pingHealthContributor
+2022-03-17 18:36:36,796 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2022-03-17 18:36:36,806 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:36:36,809 INFO  main                             - SOFABoot HealthChecker readiness check 1 item: SOFABoot-Components.
+2022-03-17 18:36:36,813 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check start.
+2022-03-17 18:36:36,818 INFO  main                             - Create health-check thread pool, corePoolSize: 1, maxPoolSize: 1.
+2022-03-17 18:36:36,898 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:36:36,899 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:36:36,901 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:36:36,902 INFO  main                             - SOFABoot HealthChecker readiness check 2 item: diskSpaceHealthIndicator,pingHealthContributor.
+2022-03-17 18:36:36,903 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check start.
+2022-03-17 18:36:36,906 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:36:36,906 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check start.
+2022-03-17 18:36:36,908 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check success.
+2022-03-17 18:36:36,908 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:36:36,909 INFO  main                             - Invoking all readiness check callbacks...
+2022-03-17 18:36:36,909 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:36:37,229 ERROR main                             - SOFA-BOOT-01-24002: Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:241)
+	at com.alipay.sofa.rpc.ext.ExtensionClass.getExtInstance(ExtensionClass.java:113)
+	at com.alipay.sofa.rpc.registry.RegistryFactory.getRegistry(RegistryFactory.java:75)
+	at com.alipay.sofa.rpc.boot.container.ProviderConfigContainer.publishAllProviderConfig(ProviderConfigContainer.java:118)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:83)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:41)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:112)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:82)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:184)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onContextRefreshedEvent(ReadinessCheckListener.java:133)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:122)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:898)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.server.ClientApplication.main(ClientApplication.java:12)
+Caused by: java.lang.NoClassDefFoundError: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:2671)
+	at java.lang.Class.getConstructor0(Class.java:3075)
+	at java.lang.Class.getDeclaredConstructor(Class.java:2178)
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:202)
+	... 31 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.alipay.sofa.registry.client.api.SubscriberDataObserver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 36 common frames omitted
+2022-03-17 18:36:37,231 ERROR main                             - SOFA-BOOT-01-24000: ReadinessCheckCallback readiness check result: failed
+2022-03-17 18:36:37,231 ERROR main                             - SOFA-BOOT-01-20000: Readiness check result: fail
+2022-03-17 18:45:33,698 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:45:33,713 INFO  main                             - Found 2 HealthIndicator implementation:diskSpaceHealthIndicator,pingHealthContributor
+2022-03-17 18:45:33,715 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2022-03-17 18:45:33,725 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:45:33,727 INFO  main                             - SOFABoot HealthChecker readiness check 1 item: SOFABoot-Components.
+2022-03-17 18:45:33,731 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check start.
+2022-03-17 18:45:33,733 INFO  main                             - Create health-check thread pool, corePoolSize: 1, maxPoolSize: 1.
+2022-03-17 18:45:33,794 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:45:33,795 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:45:33,797 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:45:33,797 INFO  main                             - SOFABoot HealthChecker readiness check 2 item: diskSpaceHealthIndicator,pingHealthContributor.
+2022-03-17 18:45:33,798 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check start.
+2022-03-17 18:45:33,800 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:45:33,800 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check start.
+2022-03-17 18:45:33,800 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check success.
+2022-03-17 18:45:33,800 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:45:33,801 INFO  main                             - Invoking all readiness check callbacks...
+2022-03-17 18:45:33,801 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:45:34,056 ERROR main                             - SOFA-BOOT-01-24002: Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:241)
+	at com.alipay.sofa.rpc.ext.ExtensionClass.getExtInstance(ExtensionClass.java:113)
+	at com.alipay.sofa.rpc.registry.RegistryFactory.getRegistry(RegistryFactory.java:75)
+	at com.alipay.sofa.rpc.boot.container.ProviderConfigContainer.publishAllProviderConfig(ProviderConfigContainer.java:118)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:83)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:41)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:112)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:82)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:184)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onContextRefreshedEvent(ReadinessCheckListener.java:133)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:122)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:898)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.server.ClientApplication.main(ClientApplication.java:12)
+Caused by: java.lang.NoClassDefFoundError: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:2671)
+	at java.lang.Class.getConstructor0(Class.java:3075)
+	at java.lang.Class.getDeclaredConstructor(Class.java:2178)
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:202)
+	... 31 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.alipay.sofa.registry.client.api.SubscriberDataObserver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 36 common frames omitted
+2022-03-17 18:45:34,058 ERROR main                             - SOFA-BOOT-01-24000: ReadinessCheckCallback readiness check result: failed
+2022-03-17 18:45:34,058 ERROR main                             - SOFA-BOOT-01-20000: Readiness check result: fail
+2022-03-17 18:46:37,896 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:46:37,907 INFO  main                             - Found 2 HealthIndicator implementation:diskSpaceHealthIndicator,pingHealthContributor
+2022-03-17 18:46:37,908 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2022-03-17 18:46:37,914 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:46:37,915 INFO  main                             - SOFABoot HealthChecker readiness check 1 item: SOFABoot-Components.
+2022-03-17 18:46:37,917 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check start.
+2022-03-17 18:46:37,919 INFO  main                             - Create health-check thread pool, corePoolSize: 1, maxPoolSize: 1.
+2022-03-17 18:46:37,997 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:46:37,998 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:46:38,001 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:46:38,002 INFO  main                             - SOFABoot HealthChecker readiness check 2 item: diskSpaceHealthIndicator,pingHealthContributor.
+2022-03-17 18:46:38,003 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check start.
+2022-03-17 18:46:38,005 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:46:38,006 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check start.
+2022-03-17 18:46:38,007 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check success.
+2022-03-17 18:46:38,007 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:46:38,008 INFO  main                             - Invoking all readiness check callbacks...
+2022-03-17 18:46:38,008 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:46:38,271 ERROR main                             - SOFA-BOOT-01-24002: Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:241)
+	at com.alipay.sofa.rpc.ext.ExtensionClass.getExtInstance(ExtensionClass.java:113)
+	at com.alipay.sofa.rpc.registry.RegistryFactory.getRegistry(RegistryFactory.java:75)
+	at com.alipay.sofa.rpc.boot.container.ProviderConfigContainer.publishAllProviderConfig(ProviderConfigContainer.java:118)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:83)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:41)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:112)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:82)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:184)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onContextRefreshedEvent(ReadinessCheckListener.java:133)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:122)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:898)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.server.ClientApplication.main(ClientApplication.java:12)
+Caused by: java.lang.NoClassDefFoundError: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:2671)
+	at java.lang.Class.getConstructor0(Class.java:3075)
+	at java.lang.Class.getDeclaredConstructor(Class.java:2178)
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:202)
+	... 31 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.alipay.sofa.registry.client.api.SubscriberDataObserver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 36 common frames omitted
+2022-03-17 18:46:38,273 ERROR main                             - SOFA-BOOT-01-24000: ReadinessCheckCallback readiness check result: failed
+2022-03-17 18:46:38,274 ERROR main                             - SOFA-BOOT-01-20000: Readiness check result: fail
+2022-03-17 18:48:55,754 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 18:48:55,765 INFO  main                             - Found 2 HealthIndicator implementation:diskSpaceHealthIndicator,pingHealthContributor
+2022-03-17 18:48:55,767 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2022-03-17 18:48:55,774 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 18:48:55,776 INFO  main                             - SOFABoot HealthChecker readiness check 1 item: SOFABoot-Components.
+2022-03-17 18:48:55,779 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check start.
+2022-03-17 18:48:55,782 INFO  main                             - Create health-check thread pool, corePoolSize: 1, maxPoolSize: 1.
+2022-03-17 18:48:55,860 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 18:48:55,861 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 18:48:55,864 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 18:48:55,865 INFO  main                             - SOFABoot HealthChecker readiness check 2 item: diskSpaceHealthIndicator,pingHealthContributor.
+2022-03-17 18:48:55,866 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check start.
+2022-03-17 18:48:55,868 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 18:48:55,868 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check start.
+2022-03-17 18:48:55,869 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check success.
+2022-03-17 18:48:55,870 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 18:48:55,871 INFO  main                             - Invoking all readiness check callbacks...
+2022-03-17 18:48:55,871 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 18:48:56,194 ERROR main                             - SOFA-BOOT-01-24002: Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:241)
+	at com.alipay.sofa.rpc.ext.ExtensionClass.getExtInstance(ExtensionClass.java:113)
+	at com.alipay.sofa.rpc.registry.RegistryFactory.getRegistry(RegistryFactory.java:75)
+	at com.alipay.sofa.rpc.boot.container.ProviderConfigContainer.publishAllProviderConfig(ProviderConfigContainer.java:118)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:83)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:41)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:112)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:82)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:184)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onContextRefreshedEvent(ReadinessCheckListener.java:133)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:122)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:404)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:361)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:898)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.server.ClientApplication.main(ClientApplication.java:12)
+Caused by: java.lang.NoClassDefFoundError: com/alipay/sofa/registry/client/api/SubscriberDataObserver
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:2671)
+	at java.lang.Class.getConstructor0(Class.java:3075)
+	at java.lang.Class.getDeclaredConstructor(Class.java:2178)
+	at com.alipay.sofa.rpc.common.utils.ClassUtils.newInstanceWithArgs(ClassUtils.java:202)
+	... 31 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.alipay.sofa.registry.client.api.SubscriberDataObserver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 36 common frames omitted
+2022-03-17 18:48:56,197 ERROR main                             - SOFA-BOOT-01-24000: ReadinessCheckCallback readiness check result: failed
+2022-03-17 18:48:56,197 ERROR main                             - SOFA-BOOT-01-20000: Readiness check result: fail
+2022-03-17 19:01:40,426 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2022-03-17 19:01:40,434 INFO  main                             - Found 2 HealthIndicator implementation:diskSpaceHealthIndicator,pingHealthContributor
+2022-03-17 19:01:40,435 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2022-03-17 19:01:40,443 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2022-03-17 19:01:40,445 INFO  main                             - SOFABoot HealthChecker readiness check 1 item: SOFABoot-Components.
+2022-03-17 19:01:40,447 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check start.
+2022-03-17 19:01:40,449 INFO  main                             - Create health-check thread pool, corePoolSize: 1, maxPoolSize: 1.
+2022-03-17 19:01:40,518 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2022-03-17 19:01:40,519 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2022-03-17 19:01:40,522 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2022-03-17 19:01:40,523 INFO  main                             - SOFABoot HealthChecker readiness check 2 item: diskSpaceHealthIndicator,pingHealthContributor.
+2022-03-17 19:01:40,525 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check start.
+2022-03-17 19:01:40,526 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2022-03-17 19:01:40,527 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check start.
+2022-03-17 19:01:40,528 INFO  main                             - HealthIndicator[pingHealthContributor] readiness check success.
+2022-03-17 19:01:40,529 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2022-03-17 19:01:40,530 INFO  main                             - Invoking all readiness check callbacks...
+2022-03-17 19:01:40,530 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2022-03-17 19:01:40,900 INFO  main                             - SOFABoot ReadinessCheckCallback[rpcAfterHealthCheckCallback] check success.
+2022-03-17 19:01:40,900 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2022-03-17 19:01:40,900 INFO  main                             - Readiness check result: success

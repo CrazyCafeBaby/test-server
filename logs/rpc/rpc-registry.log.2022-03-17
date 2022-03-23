@@ -1,3 +1,0 @@
-2022-03-17 19:01:40,806 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.31.36 when register
-2022-03-17 19:01:40,818 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-010000003: RPC 服务[com.example.server.api.TestApi:1.0@DEFAULT]发布开始
-2022-03-17 19:01:40,894 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-010000004: RPC 服务[com.example.server.api.TestApi:1.0@DEFAULT]发布结束

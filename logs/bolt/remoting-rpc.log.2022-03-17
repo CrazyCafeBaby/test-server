@@ -1,9 +1,0 @@
-2022-03-17 18:36:37,094 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
-2022-03-17 18:45:25,465 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!
-2022-03-17 18:45:33,956 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
-2022-03-17 18:46:29,933 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!
-2022-03-17 18:46:38,168 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
-2022-03-17 18:48:47,621 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!
-2022-03-17 18:48:56,059 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
-2022-03-17 18:53:04,271 WARN  [RpcServer#328] [SOFA-RPC-ShutdownHook] Rpc Server stopped!
-2022-03-17 19:01:40,703 WARN  [RpcServer#900] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes

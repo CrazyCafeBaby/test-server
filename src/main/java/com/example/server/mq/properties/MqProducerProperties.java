@@ -3,12 +3,21 @@ package com.example.server.mq.properties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * mq producer配置
+ */
 @Configuration
 @ConfigurationProperties(prefix = "rocketmq.producer")
 public class MqProducerProperties {
 
+    /**
+     * namesrv地址
+     */
     private String namesrvAddr;
 
+    /**
+     * group
+     */
     private String group;
 
     public String getNamesrvAddr() {

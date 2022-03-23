@@ -57,10 +57,13 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<mainClass>ClientApplication.class</mainClass>
-					<skip>true</skip>
-				</configuration>
+				<!-- 打jar包的时候去掉 -->
+<!--				<configuration>-->
+<!--					<mainClass>ClientApplication.class</mainClass>-->
+<!--					<skip>true</skip>-->
+<!--				</configuration>-->
+
+
 			</plugin>
 		</plugins>
 	</build>

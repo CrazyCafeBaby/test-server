@@ -5,3 +5,24 @@ rocketmq:
   producer:
     namesrvAddr: 172.31.38.111:9876
     group: TEST_TOPIC
+
+spring:
+  application:
+    name: test-server
+  output:
+    ansi:
+      enable: ALWAYS
+
+logging:
+  path: ./log
+  level:
+    com:
+      alipay:
+        test: INFO
+
+com:
+  alipay:
+    sofa:
+      rpc:
+        registry:
+          address: sofa://172.31.33.46:9603

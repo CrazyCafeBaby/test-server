@@ -9,17 +9,27 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/***
+ * sofa rpc接口实现类
+ */
 @SofaService(interfaceType = TestApi.class, bindings = { @SofaServiceBinding(bindingType = "bolt") })
 @Component
 public class TestApiImpl implements TestApi {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(TestApiImpl.class);
 
+    /**
+     * 消息生产者
+     */
     @Autowired
     private MqProducerService mqProducerService;
 
+    /**
+     * @see TestApi#sendMessage(String)
+     */
+    @Override
     public String sendMessage(String msg) {
-        System.out.println("abc");
+        LOGGER.info("收到rpc调用, msg:{}", msg);
 
         try {
             mqProducerService.sendMessage(msg);

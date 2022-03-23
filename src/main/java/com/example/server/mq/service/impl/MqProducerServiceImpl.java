@@ -12,6 +12,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * mq消息生产者实现类
+ */
 @Service
 public class MqProducerServiceImpl implements MqProducerService {
 
@@ -20,6 +23,9 @@ public class MqProducerServiceImpl implements MqProducerService {
     @Autowired
     private DefaultMQProducer defaultMQProducer;
 
+    /**
+     * @see MqProducerService#sendMessage(String) 
+     */
     @Override
     public boolean sendMessage(String msg) throws Exception {
         LOGGER.info("开始发送, msg:{}", msg);

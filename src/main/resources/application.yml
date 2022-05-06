@@ -1,10 +1,5 @@
 server:
-  port: 8080
-
-rocketmq:
-  producer:
-    namesrvAddr: 172.31.38.111:9876
-    group: TEST_TOPIC
+  port: 12200
 
 spring:
   application:
@@ -25,4 +20,6 @@ com:
     sofa:
       rpc:
         registry:
-          address: sofa://172.31.33.46:9603
+          address: nacos://k8s-default-nacosser-349c7af5d9-fbbb76f615085720.elb.us-west-2.amazonaws.com:8848
+          local:
+            Zone: DEFAULT
